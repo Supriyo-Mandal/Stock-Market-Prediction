@@ -1,6 +1,8 @@
 # Stock Market Prediction System
 
-![Stock Market Prediction](https://your_image_url_here.jpg)
+<div>
+   <h2 align="center"><img src="./Screenshot 1.png" alt="Screenshot" width="300" height="300"></h2>
+</div>
 
 ## Overview
 
@@ -33,9 +35,10 @@ To get started with the project, follow these steps:
 
 ## Contributors
 
-- [Your Name](https://github.com/your_username)
-- [Contributor 1](https://github.com/contributor1)
-- [Contributor 2](https://github.com/contributor2)
+- Supriyo Mandal
+- Shovan Maji
+- Maitryee Dey
+- Sachin Paul
 
 ## License
 
