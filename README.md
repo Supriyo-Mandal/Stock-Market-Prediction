@@ -1,7 +1,7 @@
 # Stock Market Prediction System
 
 <div>
-   <h2 align="center"><img src="./Screenshot 1.png" alt="Screenshot" width="300" height="300"></h2>
+   <h2 align="center"><img src="./download.jpeg" alt="Screenshot" width="300" height="300"></h2>
 </div>
 
 ## Overview
