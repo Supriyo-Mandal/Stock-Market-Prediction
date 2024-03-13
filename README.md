@@ -1,10 +1,11 @@
 # Stock Market Prediction System💹💻
 
+## Overview🧑‍💻
+
 <div>
    <h2 align="center"><img src="./download.jpeg" alt="Screenshot" width="300" height="300"></h2>
 </div>
 
-## Overview🧑‍💻
 
 This project aims to develop a website-based system for predicting stock market prices using machine learning algorithms. The system provides users with tools to analyze historical stock data, select an appropriate machine learning model, and visualize predictions.
 
